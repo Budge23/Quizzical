@@ -6,7 +6,13 @@ Two day paired hackathon. Using React, we created a Trivia app using an open sou
 
 The app generates 10 questions from the API in three different difficulties and from 23 categories.
 
-[CHECK IT OUT HERE ](https://kasjanhinc.github.io/trivia/)
+For this project both myself and my partner worked really well together. I focused on the Javascript logic and API elements and my partner focused on the styling and react-reveal elements. 
+
+[CHECK IT OUT HERE ](https://leejburgess.co.uk/Quizzical/)
+
+### Contributions
+
+Kasjan - https://github.com/KasjanHinc
 
 # Brief
 
