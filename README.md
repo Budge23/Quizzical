@@ -181,3 +181,10 @@ The data from our API presented HTML symbols which wouldn't render in our page, 
 - Auto generate category images from a separate API instead of hosting the images locally.
 
 
+## Key Learnings
+
+For this project, it was great to have the chance to work with a limited timeframe. As we only had 48 hours we had to make a very compact plan with a quick to reach MVP. From there we would look to add other features. 
+
+As this was my first experience coding with someone else there was quite a learning curve. I think my biggest takeaway would be using the right set up to allow us to both runs the code without the need for GitHub. Moving forward I would use a site such as Repl for a short project like this. 
+
+Overall it was a great experience and again showed the importance of planning. 
